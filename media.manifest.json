@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "home": "media-qft-lectures",
+ "title": "NeutrinoHit films: QFT lectures",
+ "budget_bytes": 900000000,
+ "media": [
+  {
+   "id": "scalar-qed",
+   "variant": "film-pm",
+   "version": 1,
+   "file": "scalar-qed/film-pm-v1.mp4",
+   "asset": "scalar-qed--film-pm--v1.mp4",
+   "release": "scalar-qed",
+   "url": "https://github.com/NeutrinoHit/media-qft-lectures/releases/download/scalar-qed/scalar-qed--film-pm--v1.mp4",
+   "sha256": "75732fbc952594f4b4f38a637527f8cacdf26d8343cac347af6abb5175adc108",
+   "bytes": 974802,
+   "duration_s": 10.04,
+   "width": 2624,
+   "height": 1480,
+   "audio": false
+  },
+  {
+   "id": "scalar-qed",
+   "variant": "film-pp",
+   "version": 1,
+   "file": "scalar-qed/film-pp-v1.mp4",
+   "asset": "scalar-qed--film-pp--v1.mp4",
+   "release": "scalar-qed",
+   "url": "https://github.com/NeutrinoHit/media-qft-lectures/releases/download/scalar-qed/scalar-qed--film-pp--v1.mp4",
+   "sha256": "054f9db3cd0fb5745448d179bc0f327891e7a0e9a3eff8e0c5998cb52925adcf",
+   "bytes": 684012,
+   "duration_s": 10.04,
+   "width": 2624,
+   "height": 1480,
+   "audio": false
+  },
+  {
+   "id": "scalar-qed",
+   "variant": "film-single",
+   "version": 1,
+   "file": "scalar-qed/film-single-v1.mp4",
+   "asset": "scalar-qed--film-single--v1.mp4",
+   "release": "scalar-qed",
+   "url": "https://github.com/NeutrinoHit/media-qft-lectures/releases/download/scalar-qed/scalar-qed--film-single--v1.mp4",
+   "sha256": "45d0f9339093bd18788faa881df061cbda52fae36d5f84454a719a0a5a5a3e6b",
+   "bytes": 400507,
+   "duration_s": 9.04,
+   "width": 2624,
+   "height": 1480,
+   "audio": false
+  }
+ ]
+}
